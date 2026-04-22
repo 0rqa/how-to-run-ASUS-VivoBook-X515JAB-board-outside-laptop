@@ -21,6 +21,6 @@
 
 <br>
 
-* For turning the board on you can short test point near the KB flex cable connector named PJP8603 to ground.
+* For turning the board on you can short test point near the KB flex cable connector to ground.
 
 ![Bez názvu 3](https://github.com/0rqa/how-to-run-ASUS-VivoBook-X515JAB-board-outside-laptop/blob/main/pw_sw.png)
